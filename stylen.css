@@ -16,7 +16,7 @@ body{
   }
   .chessboard div{
     width:100%;
-    height:80px;
+    height:100;%
     width:calc(100%/8);
     font-size:60px;
     text-align: center;
